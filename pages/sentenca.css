@@ -1,0 +1,33 @@
+body{
+    margin: 5%;
+}
+
+#significado{
+    display: none;
+    background-color: #EECDB2;
+    padding: 3%;
+    border-radius: 10px;
+}
+
+#significado h2{
+    color: #56321B;
+    font-weight: normal;
+    font-size: large;
+
+    border-bottom: solid 1px;
+    border-color: #B08E5A;
+}
+
+.texto{
+    font-size: small;
+}
+
+button{
+    border-radius: 5px;
+    color: #221307;
+    background-color: #d69165;
+    border: none;
+    margin-top: 20px;
+    padding: 5px 10px 5px 10px;
+    
+}

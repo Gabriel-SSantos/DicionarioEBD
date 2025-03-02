@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+}
+main{
+    margin-top: 25%;
+    text-align: center;
+
+}
+h1{
+    color: #56321B;
+    font-weight: normal;
+    font-size: x-large;
+}
+footer{
+    text-align: center;
+    padding: 0px;
+    margin-top: 90%;
+    background-color: rgba(110, 108, 108, 0.533);
+    font-size: 14px;
+    
+}
+footer p{
+    margin-top: 2px;  
+}
+
+#botoes{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#botoes button{
+    margin: 5px;
+    width: 60%;
+    height: 60px;
+    border-radius: 10px;
+    border: 0; 
+    background-color: #EECDB2;
+    color: #56321B;
+}
